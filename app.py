@@ -1,5 +1,3 @@
-%%writefile app.py
-
 import random
 import streamlit as st
 import matplotlib.pyplot as plt
